@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[it('${1:description}', (${2:}) => {
+	${0:// body...}
+});
+]]></content>
+    <tabTrigger>it</tabTrigger>
+    <scope>source.js,source.ts</scope>
+    <description>BDD It Block</description>
+</snippet>
